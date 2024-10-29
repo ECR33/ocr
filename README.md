@@ -81,12 +81,12 @@ python ocr2.py
 
 ## 参考
 
-- ocr.py
-  tesseract 版のOCR 今回試した限りでは読み取り精度は高くなかった。
+- ocr.py<br>
+  tesseract 版のOCR 今回試した限りでは読み取り精度は高くなかった。<br>
   devcontainerには必要なライブラリを含めていません。試す場合は自分でインストールしてください。
 
 
 ## 参考2
 
-[【Python】簡単OCR](https://qiita.com/masa1124/items/198ceea22becdf311f31)
-[【Pythonで自動化】PyMuPDFでPDFの画像を抜き出す](https://hogelog.com/python/pymupdf-3-html.html)
+- [【Python】簡単OCR](https://qiita.com/masa1124/items/198ceea22becdf311f31)
+- [【Pythonで自動化】PyMuPDFでPDFの画像を抜き出す](https://hogelog.com/python/pymupdf-3-html.html)
